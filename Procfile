@@ -1,1 +1,1 @@
-web: sudo streamlit run 1.py --server.port 80
+web: sh setup.sh && streamlit run 1.py
