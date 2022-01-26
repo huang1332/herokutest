@@ -2,7 +2,7 @@ import streamlit as st
 st.set_page_config(
      page_title='test',
      layout="wide",
-     page_icon='🅿',#random
+     page_icon='🅿',
      initial_sidebar_state="collapsed"#“auto”或“expanded”或“collapsed”
 )
 if 'str1' not in st.session_state:
