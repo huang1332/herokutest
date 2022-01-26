@@ -1,1 +1,1 @@
-web: streamlit run st1.py --server.port 80
+web: streamlit run 1.py --server.port 80
