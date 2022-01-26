@@ -1,1 +1,5 @@
-
+streamlit>=0.0
+grequests
+demjson
+beautifulsoup4
+requests
